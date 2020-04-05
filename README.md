@@ -29,6 +29,18 @@ Many states (such as MA, CA, etc.) do not report this death data by age.
 |  60+ | 2393 | 173 | 7.2% |
 |  Total | 6381 | 215 | 3.4% |
 
+### Louisiana
+|  Age | Case Count | Death Count | Death Rate |
+| :--- | --- | --- | --- |
+|  0-18 | 123 | 1 | 0.8% |
+|  18-29 | 1247 | 3 | 0.2% |
+|  30-39 | 2048 | 14 | 0.7% |
+|  40-49 | 2395 | 29 | 1.2% |
+|  50-59 | 2737 | 61 | 2.2% |
+|  60-69 | 2306 | 87 | 3.8% |
+|  70+ | 2154 | 282 | 13.1% |
+|  Total | 13010 | 477 | 3.7% |
+
 ### Michigan
 |  Age | Case Count | Death Count | Death Rate |
 | :--- | --- | --- | --- |
@@ -105,6 +117,8 @@ Many states (such as MA, CA, etc.) do not report this death data by age.
 
 [Georgia](https://dph.georgia.gov/covid-19-daily-status-report)
 
+[Louisiana](http://ldh.la.gov/coronavirus/)
+
 [Michigan](https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html)
 
 [New York City](https://github.com/nychealth/coronavirus-data/blob/master/by-age.csv)
@@ -119,5 +133,3 @@ Many states (such as MA, CA, etc.) do not report this death data by age.
 
 #### Contact
 www.brendantodaro.com
-
-https://www.linkedin.com/in/brendantodaro/
