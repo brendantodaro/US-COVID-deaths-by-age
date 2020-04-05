@@ -78,7 +78,7 @@ Many states (such as MA, CA, etc.) do not report this death data by age.
 |  80+ | 70 | 11 | 15.7% |
 |  Total | 998 | 26 | 2.6% |
 
-### Washington* 
+### Washington
 |  Age | Case Count | Death Count | Death Rate |
 | :--- | --- | --- | --- |
 |  0-19 | 152 | 0 | 0.0% |
