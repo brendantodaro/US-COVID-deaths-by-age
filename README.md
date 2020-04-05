@@ -49,8 +49,8 @@ Many states (such as MA, CA, etc.) do not report this death data by age.
 |  18-44 | 10580 | 30 | 0.3% |
 |  45-64 | 15669 | 197 | 1.3% |
 |  65-74 | 16428 | 603 | 3.7% |
-|  75+ | 17245 | 1,423 | 8.3% |
-|  Total | 60850 | 2,254 | 3.7% |
+|  75+ | 17245 | 1423 | 8.3% |
+|  Total | 60850 | 2254 | 3.7% |
 
 ### Ohio
 |  Age | Case Count | Death Count | Death Rate |
