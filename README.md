@@ -5,7 +5,8 @@ Most publicly-disseminated information regarding COVID-19 has been [epidemiologi
 
 ## Data
 This data is a cumulative snapshot as of 4/5/2020. 
-Cases with unknown ages were removed.
+Cases with unknown ages were removed. 
+Many states (such as MA, CA, etc.) do not report this death data by age.
 
 ### Florida
 |  Age | Case Count | Death Count | Death Rate |
