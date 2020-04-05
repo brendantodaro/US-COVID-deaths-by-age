@@ -33,7 +33,7 @@ Many states (such as MA, CA, etc.) do not report this death data by age.
 |  Age | Case Count | Death Count | Death Rate |
 | :--- | --- | --- | --- |
 |  0-19 | 142 | 0 | 0.0% |
-|  20-19 | 1280 | 5 | 0.4% |
+|  20-29 | 1280 | 5 | 0.4% |
 |  30-39 | 1849 | 11 | 0.6% |
 |  40-49 | 2418 | 32 | 1.3% |
 |  50-59 | 2845 | 65 | 2.3% |
